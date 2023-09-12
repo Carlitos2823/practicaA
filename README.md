@@ -1,0 +1,2 @@
+# practicaA
+extraccion de datos
